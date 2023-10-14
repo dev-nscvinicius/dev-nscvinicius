@@ -9,7 +9,6 @@ Olá, me chamo Vinicius
  meu objetivos e ser o melhor Front-end que eu conseguir ! quem sabe eu me apaixone pelo back-end ...
 
 ## Social
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/dev-nscvinicius/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vin%C3%ADcius-rodrigues-5894b6177/)
 
