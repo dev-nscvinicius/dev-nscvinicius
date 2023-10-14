@@ -12,12 +12,12 @@ Olá, me chamo Vinicius
 
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vin%C3%ADcius-rodrigues-5894b6177/)
 
-## habilidades
+## Habilidades
 [![HTML](https://img.shields.io/badge/HTML-fff?style=for-the-badge&logo=html5&logoColor=E34F26)](#)
 [![CSS](https://img.shields.io/badge/CSS-fff?style=for-the-badge&logo=css3&logoColor=1572B6)](#)
 [![git](https://img.shields.io/badge/Git-fff?style=for-the-badge&logo=git&logoColor=00)](#)
 
-## Eu pretende aprender 
+## O que pretendo aprender 
 [![Node.js](https://img.shields.io/badge/Node.js-fff?style=for-the-badge&logo=node.js&logoColor=339933)](#)
 [![Docker](https://img.shields.io/badge/Docker-fff?style=for-the-badge&logo=docker&logoColor=2496ED)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-fff?style=for-the-badge&logo=next.js&logoColor=000)](#)
