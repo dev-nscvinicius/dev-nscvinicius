@@ -1,31 +1,37 @@
+# README - Desenvolvedor em Ascensão
 
-**"Vinicius Rodrigues do Nascimento"**
+---
+
+Olá! 👋 Meu nome é [Seu Nome] e sou um desenvolvedor apaixonado que está embarcando em uma emocionante jornada no mundo da tecnologia. Eu estou começando a trilhar meu caminho neste vasto universo da programação e estou entusiasmado para compartilhar minha jornada com vocês.
 
 ## Sobre Mim
-Olá, me chamo Vinicius 
- Desde que tive o primeiro contato com a tecnologia me apixonei!,comecei a estudar tem uns 4 meses, 
- me indentifiquei com a área de Front-End , gostei bastante do html porem o css foi como descobrir o mundo
- quantas opçoes de estilização? agora meu foco vai ser a programação e pretendo estudar muito para alcancar 
- meu objetivos e ser o melhor Front-end que eu conseguir ! quem sabe eu me apaixone pelo back-end ...
 
-## Social
-
-[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vin%C3%ADcius-rodrigues-5894b6177/)
+Desde que descobri a fascinante área da tecnologia, tenho mergulhado de cabeça nos estudos. Nos últimos meses, tenho me dedicado arduamente para aprender e aprimorar minhas habilidades. Atualmente, me sinto confortável com HTML e CSS, e estou começando a explorar os conceitos básicos do JavaScript para tornar minhas páginas mais dinâmicas e interativas.
 
 ## Habilidades
-[![HTML](https://img.shields.io/badge/HTML-fff?style=for-the-badge&logo=html5&logoColor=E34F26)](#)
-[![CSS](https://img.shields.io/badge/CSS-fff?style=for-the-badge&logo=css3&logoColor=1572B6)](#)
-[![git](https://img.shields.io/badge/Git-fff?style=for-the-badge&logo=git&logoColor=00)](#)
 
-## O que pretendo aprender 
-[![Node.js](https://img.shields.io/badge/Node.js-fff?style=for-the-badge&logo=node.js&logoColor=339933)](#)
-[![Docker](https://img.shields.io/badge/Docker-fff?style=for-the-badge&logo=docker&logoColor=2496ED)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-fff?style=for-the-badge&logo=next.js&logoColor=000)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-fff?style=for-the-badge&logo=bootstrap&logoColor=563D7C)](#)
-[![Bulma](https://img.shields.io/badge/Bulma-fff?style=for-the-badge&logo=bulma&logoColor=00D1B2)](#)
-[![React](https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-[![Angular](https://img.shields.io/badge/Angular-fff?style=for-the-badge&logo=angular&logoColor=DD0031)](#)
+- **HTML**: Domínio sólido na criação de estrutura e conteúdo para páginas web.
+- **CSS**: Habilidade em estilização e design, tornando minhas páginas visualmente atraentes e responsivas.
+- **JavaScript**: Conhecimento básico em JavaScript para adicionar interatividade e funcionalidade às minhas páginas web.
+- **Git e GitHub**: Experiência prática com controle de versão e colaboração em projetos utilizando Git e GitHub.
+- **Electron**: Familiaridade com o framework Electron para desenvolvimento de aplicativos desktop multiplataforma.
 
+## O Que Estou Aprendendo
 
+Atualmente, estou focado em expandir meu conhecimento em JavaScript, explorando bibliotecas e frameworks populares como React e Vue.js. Também estou interessado em aprender mais sobre desenvolvimento de aplicativos web e mobile.
 
+## Como Me Encontrar
+
+Se você quiser acompanhar minha jornada de aprendizado ou entrar em contato comigo, sinta-se à vontade para me encontrar nas seguintes plataformas:
+
+- **GitHub**: [Seu perfil no GitHub](https://github.com/dev-nscvinicius/)
+
+## Contribuições
+
+Estou sempre aberto a novas oportunidades de aprendizado e colaboração. Se você tiver alguma sugestão, dica ou projeto interessante para compartilhar, ficarei feliz em ouvir!
+
+Vamos juntos nessa jornada de crescimento e descoberta no mundo da programação! ✨
+
+---
+
+Espero que este README capture sua jornada de aprendizado e seus objetivos futuros de maneira clara e inspiradora!
