@@ -1,8 +1,8 @@
-# README - Desenvolvedor em Ascensão
+# - Desenvolvedor em Ascensão
 
 ---
 
-Olá! 👋 Meu nome é [Seu Nome] e sou um desenvolvedor apaixonado que está embarcando em uma emocionante jornada no mundo da tecnologia. Eu estou começando a trilhar meu caminho neste vasto universo da programação e estou entusiasmado para compartilhar minha jornada com vocês.
+Olá! 👋 Meu nome é Vinicius Rodrigues e sou um desenvolvedor apaixonado que está embarcando em uma emocionante jornada no mundo da tecnologia. Eu estou começando a trilhar meu caminho neste vasto universo da programação e estou entusiasmado para compartilhar minha jornada com vocês.
 
 ## Sobre Mim
 
